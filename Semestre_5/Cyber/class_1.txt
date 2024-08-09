@@ -1,0 +1,43 @@
+importancia de la seguridad
+
+Activos de TI:
+- Elementos de tecnologia de la informacion utilizados para agregar valoe a la organizasción: hardwsresofware.
+
+Tangibles:
+. servidores
+ruteadores
+NAS
+Dispositivos iot
+
+Intangiblrd:
+sistemas operativos
+- Aplicaciones
+dato de clintew
+
+
+Pilares de la seguridad
+
+Confidencialidad:
+ no qutorización
+
+ integridad
+ presición y confiabilidad
+ auorizado
+
+ Disponibilidad, acceso autorizado
+
+De que pila se está afectando?
+
+Enfoque Holistico: Se requiere una tecnologíq avanzada, procesos robustos, personal capacitado
+1. personas
+2. procesos
+3. Tecnologías
+
+# Actores de amenaza
+
+Los actores de amenaza son entidades que pueden comprometer tu seguridad
+
+Naturales
+
+Personas: Errores, Intencional
+ - Intencional: Interno Externo Aleatorio Dirigido

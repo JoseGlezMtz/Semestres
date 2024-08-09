@@ -1,0 +1,11 @@
+REACT
+
+JSX: java script sintax extension is a combinations of html and javascrpt
+
+Virtual DOM: Virtual document object Model( Secciona el programa en partes para
+ no tener que cargar todo el paquete junto)
+
+Components: Used to compile and otimize the JavaScript Code
+
+React Admin: Open sourcce framework for building B2B apps created by Marmelab 
+for creating Dynamic aplications
