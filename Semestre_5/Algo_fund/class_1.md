@@ -1,13 +1,14 @@
-
+## Algoritmos fundamentales
 
 Algoritmo: conjunto claramaente especificado de instrucciones sencillas a seguir para resolver un problema o calcular un función
 
 Algoritmo computacional: un algoritmo que puede ser implementado en un programa de computadora 
 
  problema  ----->  solución algoritmica  ------->  Algoritmo
+
 |________________Teoria de la computabilidad_________________|
 
-Solución Algpritmica: es posible implementar un algoritmo por medio de la escritura de un programa de computadora
+Solución Algoritmica: es posible implementar un algoritmo por medio de la escritura de un programa de computadora
 que producirá la respuesta correcta para cualquier entrada válida.
 
 
