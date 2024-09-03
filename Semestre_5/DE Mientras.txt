@@ -1,0 +1,12 @@
+Descripción de la solución:
+
+- Para este proyecto vamos a dar paso a un sistema de CRM (Custumer relationship Managment)
+con el objetivo de proporcionar un sitema en el cual el administrador pueda dar seguimiento a diferentes 
+aspectos dentro de la plataforma como lo puede ser la administrsción de los donativos tanto de donadores
+civiles como de proovedores de productos.
+
+De igual manera se proporcionara una base de datos que este ligada con dicho sistema,
+Esta base de datos buscara que se tenga un mejor manejo de los datos dentro de la fundación
+
+Es fundamental que el sistema cuente con las bases esencuales del funcionamiento CRUD por lo que va a tener
+habilitadas todas las funciones de dicho esquema. 
