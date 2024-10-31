@@ -22,7 +22,7 @@ para una alternancia de bloques, en la que ninguna alternativa es un caso base, 
 
 Si un bloque contienen una invocacion de subrutina, determinamos el tamaño de sus parámetros
 
-![](./Costo_en_k.png)
+![](iMAGENES/Costo_en_k.png)
 
 
  Ecuacions de Recurrencia general:

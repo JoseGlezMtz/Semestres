@@ -8,7 +8,7 @@ en c++ será e 0-9
 
 conceptos:
 
-- **SUb string**: es un conjunto de caracteres pertenecientes a S de la posición i a la j inclullendolos}
+- **SUb string**: es un conjunto de caracteres pertenecientes a S de la posición i a la j incluyendolos}
 
 - **Prefijo**: de la posición 1...i
 - **sufijo**: de la i...n
